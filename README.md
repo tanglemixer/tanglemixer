@@ -30,13 +30,14 @@ The TangleMixer client guides you through the setup process.
 
 - Enter two to ten addresses where you receive your mixed funds
 - Enter an IOTA node
-- The TangleMixer client sends a message into tangle and waits for a response form the TangleMixer service.
+- The TangleMixer client sends a message into tangle and waits for a response from the TangleMixer service.
 - Please carefully read the response.
 - The response contains the address where you deposit your IOTAs to mix. 
 - The response also tells you the current fees. Small amounts are FREE to test our service.
 
 # Is this a scam?
-No. 
+No.
+
 As there are fees involved we want to provide the best mixing service possible.
 We hope that many users use our service, the fees help us to cover the costs.
 If we would scam people we could close our service immediately. 
