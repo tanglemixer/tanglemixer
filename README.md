@@ -53,5 +53,5 @@ You can simply test us, small deposits are free.
 The TangleMixer service is quiet new, if something goes wrong TangleMixer returns the original amount back to the first given address.
 
 # Contact
-If you have any questions  please contact us via tanglemixer@protonmail.com <br />
+If you have any questions  please contact us via tanglemixer@unicorntoday.com <br />
 
