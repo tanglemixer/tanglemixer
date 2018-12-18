@@ -1,5 +1,5 @@
 # TangleMixer
-TangleMixer is a coin-mixing service for IOTA. With TangleMixer you can anonymize the source of your IOTAs.
+TangleMixer is a coin-mixing service for IOTA. It is the first IOTA mixer for the mainnet! With TangleMixer you can anonymize the source of your IOTAs.
 
 # How does it work
 Unlike other coin-mixing services, TangleMixer purely uses the IOTA tangle to communicate. There's no central website.<br />
